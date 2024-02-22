@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif
+}
+.w3-bar-block .w3-bar-item {
+    padding: 16px
+}
+ul {
+    padding-left: 100px;
+    margin: 0px;
+}
+
+.paragraph {
+    font-size: 24px;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('bckgrnd.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.bckgrnd{
+}
+h1 {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+#img {
+    border: 5px solid #fff;
+    float: left;
+    margin-left: 30px;
+}
