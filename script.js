@@ -9,3 +9,11 @@ let occupation = "Student";
 console.log("Name:", name);
 console.log("Age:", age);
 console.log("Occupation:", occupation);
+
+let availableForHire = false;
+
+if (availableForHire) {
+  console.log("I am available for hire.");
+} else {
+  console.log("I am not available for hire at the moment.");
+}
