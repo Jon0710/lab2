@@ -17,3 +17,7 @@ if (availableForHire) {
 } else {
   console.log("I am not available for hire at the moment.");
 }
+
+
+let greeting = "Hello, Welcome to my Personal Website!";
+console.log(greeting);
