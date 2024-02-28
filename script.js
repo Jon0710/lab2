@@ -1,5 +1,5 @@
-if (!sessionStorage.getItem('alertShown')) {     // If not, show the alert     
-    alert("Welcome to my personal profile!");     // Mark the alert as shown in sessionStorage     
+if (!sessionStorage.getItem('alertShown')) {          
+    alert("Welcome to my personal profile!");         
     sessionStorage.setItem('alertShown', 'true');   }
 
 let name = "Jon Morieshi";
